@@ -158,7 +158,8 @@ ul {
    
 }
 .imgApp img {
-    width: 100%;
+    width: 80%;
+    height: auto;
 }
 .textInfo{
     color: white;
